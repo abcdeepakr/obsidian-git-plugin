@@ -32,7 +32,7 @@ function getAbsolutePath(filename:string): string {
 		throw new Error('Cannot determine base path.');
 	}
 	// relative path
-	const relativePath = `${this.app.vault.configDir}/plugins/obsidian-sample-plugin/${filename}`;
+	const relativePath = `${this.app.vault.configDir}/plugins/obsidian-git-plugin/${filename}`;
 	// absolute path
 	return `${basePath}/${relativePath}`;
 }
