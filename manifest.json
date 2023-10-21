@@ -1,0 +1,11 @@
+{
+	"id": "pull-push-sync",
+	"name": "pull-push-sync",
+	"version": "0.0.1",
+	"minAppVersion": "0.15.0",
+	"description": "Pull, push and sync your obsidian across devices using obsidian",
+	"author": "Obsidian",
+	"authorUrl": "https://obsidian.md",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}
