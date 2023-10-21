@@ -7,3 +7,5 @@ steps to install
 - `cd to/your/vault`
 - `cd .obsidian/plugins`
 - `git clone`
+- `npm install`
+- `npm run dev`
